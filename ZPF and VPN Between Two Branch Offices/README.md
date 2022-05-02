@@ -1,0 +1,2 @@
+# Overview
+In this project we have designed and implemented a network between two Branch offices. Zone based policy Firewall is implemented and has INSIDE, OUTSIDE and DMZ zones connected to it. To access the DMZ from public network the NAT is implemented. Site-to-site access IPsec VPN between two Branch office routers is configured for specific network so that all the traffic between networks stays encrypted till it reaches the other end-point. The switches are configured with port-security for the security purpose.
